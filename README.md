@@ -2,7 +2,7 @@
 
 A predictive analytics platform designed to reduce customer churn for telecom and subscription businesses. Built with **XGBoost** and **Streamlit**.
 
-### 🔴 [Live Demo: Click Here to Launch App](DIN_LÄNK_HÄR)
+### 🔴 [Live Demo: Click Here to Launch App](https://churn-risk-engine-mnazpdguron3ja2eyeup2h.streamlit.app/)
 
 ## 💼 Business Value
 * **Prediction:** Identifies high-risk customers with **85%+ accuracy**.
